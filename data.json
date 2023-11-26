@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Anggur Merah",
+            "harga": "Rp. 75.000",
+            "images": "https://craft-beer.bold-themes.com/main-demo/wp-content/uploads/sites/3/2017/05/product_06-400x800.png"
+        },
+        {
+            "id": 2,
+            "title": "Lion",
+            "harga": "Rp. 35.000",
+            "images": "https://craft-beer.bold-themes.com/main-demo/wp-content/uploads/sites/3/2017/05/product_06-400x800.png"
+        },
+        {
+            "id": 3,
+            "title": "Anggur Merah",
+            "harga": "Rp. 75.000",
+            "images": "https://craft-beer.bold-themes.com/main-demo/wp-content/uploads/sites/3/2017/05/product_06-400x800.png"
+        },
+        {
+            "id": 4,
+            "title": "Anggur Merah",
+            "harga": "Rp. 75.000",
+            "images": "https://craft-beer.bold-themes.com/main-demo/wp-content/uploads/sites/3/2017/05/product_06-400x800.png"
+        },
+        {
+            "id": 4,
+            "title": "Anggur Merah",
+            "harga": "Rp. 75.000",
+            "images": "https://craft-beer.bold-themes.com/main-demo/wp-content/uploads/sites/3/2017/05/product_06-400x800.png"
+        },
+        {
+            "id": 5,
+            "title": "Anggur Merah",
+            "harga": "Rp. 35.000",
+            "images": "https://craft-beer.bold-themes.com/main-demo/wp-content/uploads/sites/3/2017/05/product_06-400x800.png"
+        }
+    ]
+}
